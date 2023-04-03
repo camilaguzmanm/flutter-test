@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+const cBackgroundColor1 = Color.fromRGBO(187, 217, 236, 1.0);   // #AEE0ECBE
+const cBackgroundColor2 = Color.fromRGBO(237, 245, 246, 1.0);   // #EDF5F6FF
+const primaryColor1 = Color.fromRGBO(8, 140, 157, 1.0);   // #088C9DFF
+const primaryColor2 = Color.fromRGBO(176, 84, 116, 0.9411764705882353);   // CA3E6D
+const splashColor = Color.fromRGBO(125, 232, 244, 1.0);         // #7DE8F4FF
+const cWhite = Color.fromRGBO(255, 255, 255, 1);                // #FFFFFF
+const cBlack = Color.fromRGBO(0, 0, 0, 1);                      // #000000
+const cBlackOpacity = Color.fromRGBO(0, 0, 0, 0.25);            // #00000000
+const cMainBlack = Color.fromRGBO(24, 26, 27, 1);               // #181A1B
+const cBlackText = Color.fromRGBO(24, 24, 24, 1);               // #181818
+const cBlackOpacityText = Color.fromRGBO(142, 142, 142, 1.0);   // #8E8E8E
+const cGMainGrey = Color.fromRGBO(194, 193, 193, 1);            // #C2C1C1
+const cGreyBackA = Color.fromRGBO(217, 217, 217, 1);            // #D9D9D9
+const cGreyHintText = Color.fromRGBO(154, 154, 154, 1);         // #9A9A9A
+const cWhiteBackground = Color.fromRGBO(243, 243, 243, 1);      // #F3F3F3 // #0ABE68
+const cGrey60A = Color.fromRGBO(44, 42, 42, 1);                 // #2C2A2A
+const cGrey60B = Color.fromRGBO(217, 217, 217, .6);             // #D9D9D9
+const cDarkOverlay = Color.fromRGBO(45, 45, 45, 1);             // #2D2D2D
+const cGreyBackB = Color.fromRGBO(68, 68, 68, 1);               // #444444
+const cPostCard = Color.fromRGBO(255, 251, 251, 1);              // #FFFBFB
